@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Charles-Drama-App/static/css/main.fc713dbb.chunk.css",
+    "main.js": "/Charles-Drama-App/static/js/main.c4eee4b8.chunk.js",
+    "main.js.map": "/Charles-Drama-App/static/js/main.c4eee4b8.chunk.js.map",
+    "runtime-main.js": "/Charles-Drama-App/static/js/runtime-main.14abe3a1.js",
+    "runtime-main.js.map": "/Charles-Drama-App/static/js/runtime-main.14abe3a1.js.map",
+    "static/js/2.30ed3b0f.chunk.js": "/Charles-Drama-App/static/js/2.30ed3b0f.chunk.js",
+    "static/js/2.30ed3b0f.chunk.js.map": "/Charles-Drama-App/static/js/2.30ed3b0f.chunk.js.map",
+    "static/js/3.6b8faada.chunk.js": "/Charles-Drama-App/static/js/3.6b8faada.chunk.js",
+    "static/js/3.6b8faada.chunk.js.map": "/Charles-Drama-App/static/js/3.6b8faada.chunk.js.map",
+    "index.html": "/Charles-Drama-App/index.html",
+    "static/css/main.fc713dbb.chunk.css.map": "/Charles-Drama-App/static/css/main.fc713dbb.chunk.css.map",
+    "static/js/2.30ed3b0f.chunk.js.LICENSE.txt": "/Charles-Drama-App/static/js/2.30ed3b0f.chunk.js.LICENSE.txt",
+    "static/media/spinner.dbb22bcf.gif": "/Charles-Drama-App/static/media/spinner.dbb22bcf.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14abe3a1.js",
+    "static/js/2.30ed3b0f.chunk.js",
+    "static/css/main.fc713dbb.chunk.css",
+    "static/js/main.c4eee4b8.chunk.js"
+  ]
+}
